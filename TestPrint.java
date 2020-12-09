@@ -1,5 +1,5 @@
 ublic class HelloWorld{
 	public static void main(String[] args){
-		System.out.println("println a String")
+		System.out.println("println a String");
 	}
 }
